@@ -1,2 +1,4 @@
 # belajar-kolaborasi
-Kolaborasi pertama (practice)
+Kolaborasi pertama (practice)  
+
+Belajar Github itu sangat menyenangkan
